@@ -1,0 +1,6 @@
+./Program.out 80 0.01 10 1.0 200 1e-15 55.7 > file_phi_up.txt
+
+
+
+
+
